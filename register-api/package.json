@@ -1,0 +1,17 @@
+{
+  "name": "register-api",
+  "version": "1.0.0",
+  "description": "register user",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MIT",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemo": "^1.0.0"
+  }
+}
